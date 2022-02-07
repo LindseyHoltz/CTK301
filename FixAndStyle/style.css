@@ -1,0 +1,47 @@
+#whitetext {
+  color: white;
+}
+
+a:link {
+  color: green;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  text-decoration: underline;
+}
+
+header {
+  background-color: #A4A4F4;
+}
+
+.bluetext {
+  color: blue;
+}
+
+.orangetext {
+  color: orange;
+}
+
+.yellowbg {
+  background-color: yellow;
+}
+
+.redtext {
+  color: #ff0000;
+}
+
+.fathersday {
+  color: yellow;
+  background-color: darkgreen;
+}
+
+.lightgreenbg {
+  background-color: lightgreen;
+}
+
+.bluetextbold {
+  color: blue;
+  font-weight: bold;
+}
