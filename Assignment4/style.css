@@ -1,0 +1,152 @@
+body {
+  font-family: sans-serif;
+  background-image: url(images/reggie.png);
+  background-repeat: repeat;
+  background-position: center;
+}
+
+.textcenter {
+  text-align: center;
+}
+
+.textjustify {
+  text-align: justify;
+}
+
+h1 {
+  color: orange;
+  font-style: italic;
+  font-weight: normal;
+}
+
+.imgbox {
+  border: 15px solid #000000;
+  padding: 10px;
+  background-color: #ffffff;
+  margin: 20px;
+  width: 250px;
+}
+
+
+
+
+#specialid {
+  color: #FF0000;
+ background-color: #000000;
+}
+
+a {
+ text-decoration: none;
+}
+
+a:link {
+ color: #FF0000;
+}
+
+a:hover {
+ color: #ffff00;
+ text-decoration: underline;
+}
+
+a:visited {
+ color: #00FF00;
+}
+
+nav {
+  background-color: #BF3FBF;
+}
+
+.maininfo {
+  color: #ABCDEF;
+  background-color: #BF3F7F;
+}
+
+.ctktitle {
+  color: #152FF9;
+}
+
+.red
+{
+  color: red;
+}
+
+.orange
+{
+  color: orange;
+}
+
+.yellow
+{
+  color: yellow;
+}
+
+.green
+{
+  color: green;
+}
+
+.blue
+{
+  color: blue;
+}
+
+.violet
+{
+  color: violet;
+}
+
+.pink
+{
+  color: pink;
+}
+
+.lightblue {
+  color: lightblue;
+}
+
+.backgroundred {
+  background-color: red;
+}
+
+.backgroundorange {
+  background-color: orange;
+}
+
+.backgroundyellow {
+  background-color: yellow;
+}
+
+.backgroundgreen {
+  background-color: green;
+}
+
+.backgroundblue {
+  background-color: blue;
+}
+
+.backgroundviolet {
+  background-color: violet;
+}
+
+.backgroundpink {
+  background-color: pink;
+}
+
+.lightbluebr {
+  background-color: lightblue;
+}
+
+.majorctk {
+  color: #FF00AA;
+  background-color: #DAB420;
+}
+
+.divstyle {
+  color: #F2713A;
+  background-color: #3D7BAA
+}
+
+.spanstlye {
+  color: #3E3EBB;
+  background-color:#02ED69
+}
